@@ -112,7 +112,7 @@ header .column span{
         background: rgb(31, 29, 29);
         border-radius: 20px;
         padding: 35px 40px;
-        transform: rotate(270deg);
+        transform: rotate(90deg);
     }
     header h2{
         font-size: 1.2rem;
